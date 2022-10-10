@@ -20,6 +20,7 @@ return {
     write : function (){
         console.log ("write")
     }
+    
 
 },
 }
