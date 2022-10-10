@@ -21,6 +21,5 @@ return {
         console.log ("write")
     }
     
-
 },
 }
